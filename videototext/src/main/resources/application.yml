@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: VIDEO-TO-TEXT-COMPRESSOR
+
+server:
+  port: 8080
